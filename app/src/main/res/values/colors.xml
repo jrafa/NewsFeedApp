@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F8FAFF</color>
+    <color name="colorPrimaryDark">#F8FAFF</color>
+    <color name="colorAccent">#fbd14b</color>
+
+    <color name="colorSectionTechnology">#fbd14b</color>
+    <color name="colorSectionGames">#6a60a9</color>
+    <color name="colorSectionDefault">#4F86C6</color>
+    <color name="colorSectionCulture">#3ac569</color>
+    <color name="colorDivider">#E0E3DA</color>
+</resources>

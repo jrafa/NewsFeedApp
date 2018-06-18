@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Guardian News Feed</string>
+    <string name="no_news">Currently there are no news for you.\nPlease come back later and try again.</string>
+    <string name="no_internet_connection">No internet connection.</string>
+
+    <string name="title">Big Bang Theory</string>
+    <string name="author">Sheldon Cooper</string>
+    <string name="news_date">May 1, 2018</string>
+    <string name="news_time">12:00 PM</string>
+    <string name="section">Technology</string>
+
+    <string name="settings_menu_item">Settings</string>
+    <string name="settings_title">Guardian Settings</string>
+
+    <string name="settings_order_by_label">Order by</string>
+    <string name="settings_order_by_key">order_by</string>
+    <string name="settings_order_by_default">newest</string>
+
+    <string name="settings_search_by_label">Search</string>
+    <string name="settings_search_by_key">q</string>
+    <string name="settings_search_by_default">android</string>
+
+    <string name="settings_counter_news_by_label">How many news display?</string>
+    <string name="settings_counter_news_by_key">page-size</string>
+    <string name="settings_counter_news_by_default">20</string>
+
+    <string name="settings_from_date_by_label">From date</string>
+    <string name="settings_from_date_by_key">from-date</string>
+    <string name="settings_from_date_by_default">2018\-01\-01</string>
+
+</resources>
